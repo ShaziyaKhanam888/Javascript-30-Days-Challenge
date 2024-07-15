@@ -1,3 +1,4 @@
+//Day 1: Variables and Data Types
 //Declare a variable using var
 var age = 12;
 console.log(age);
