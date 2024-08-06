@@ -1,3 +1,4 @@
+//Day - 10 : Event Handling
 // Add a click event listener to a button that changes the text of the paragraph
 const btn = document.querySelector("button");
 const para = document.querySelector("p");
